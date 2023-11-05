@@ -1,0 +1,11 @@
+#while loops
+
+i=1
+while i<=5:
+    print(i)
+    i=i+1
+ # or   
+i=1
+while i <= 5:
+       print(i* "*")
+       i=i+1
